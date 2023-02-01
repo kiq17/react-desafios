@@ -19,3 +19,12 @@ O desafio consiste em mostrar na tela, quando houver um evento de clique do usu�
 <strong>Instruções:</strong>
  <li>Caso não houver nenhum ponto na tela deve ser mostrado um alert na tela;</li>
  <li>Ao clicar no butão o ponto deve retornar na mesma posição em que estava;</li>
+
+
+<h3>Desafio 3: Scroll Infinito</h3>
+
+Carregar novos dados ao chegar no final da página sem que os dados anteriormente carregados não sumam da tela.
+
+<strong>Instruções:</strong>
+ <li>Utilizar a api no arquivo de preferência;</li>
+ <li>Sinalizar o carregando de dados;</li>
