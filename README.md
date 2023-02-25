@@ -23,8 +23,9 @@ O desafio consiste em mostrar na tela, quando houver um evento de clique do usu�
 
 <h3>Desafio 3: Scroll Infinito</h3>
 
-Carregar novos dados ao chegar no final da página sem que os dados anteriormente carregados não sumam da tela.
+Carregar novos dados ao chegar no final da página, sem que os dados anteriormente carregados não sumam da tela.
 
 <strong>Instruções:</strong>
- <li>Utilizar a api no arquivo de preferência;</li>
+ <li>De preferência utilizar a api presente no arquivo;</li>
  <li>Sinalizar o carregando de dados;</li>
+ <li>Não exibir dados repetidos;</li>
