@@ -29,3 +29,11 @@ Carregar novos dados ao chegar no final da página, sem que os dados anteriormen
  <li>De preferência utilizar a api presente no arquivo;</li>
  <li>Sinalizar o carregando de dados;</li>
  <li>Não exibir dados repetidos;</li>
+ 
+ <h3>Desafio 4: Fila de números</h3>
+
+Consiste em três ou mais fileiras que recebem números. O número a ser adicionado deve ser menor do que a soma de toda a fila.
+
+<strong>Instruções:</strong>
+ <li>Checar a soma de todas as filas;</li>
+ <li>Para retirar um número da fila é necessário decrementa-lo. Deve começar pelo menor número da fila;</li>
