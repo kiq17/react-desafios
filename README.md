@@ -36,4 +36,4 @@ Consiste em três ou mais fileiras que recebem números. O número a ser adicion
 
 <strong>Instruções:</strong>
  <li>Checar a soma de todas as filas;</li>
- <li>Para retirar um número da fila é necessário decrementa-lo. Deve começar pelo menor número da fila;</li>
+ <li>Para retirar um número da fila é necessário decrementa-lo. Deve começar pelo maior número da fila;</li>
